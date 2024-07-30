@@ -10,3 +10,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-07-22**: docs(amazon): add regional sales performance breakdown
 - **2024-07-22**: docs(amazon): add regional sales performance breakdown
 - **2024-07-24**: feat(kpi): implement YoY revenue growth calculation in DAX
+- **2024-07-30**: perf(sql): reduce query execution time on customer ride history
