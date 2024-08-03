@@ -12,3 +12,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-07-24**: feat(kpi): implement YoY revenue growth calculation in DAX
 - **2024-07-30**: perf(sql): reduce query execution time on customer ride history
 - **2024-07-30**: feat(kpi): implement YoY revenue growth calculation in DAX
+- **2024-08-03**: feat(powerquery): add automated ETL data cleaning pipeline
