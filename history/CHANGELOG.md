@@ -15,3 +15,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-08-03**: feat(powerquery): add automated ETL data cleaning pipeline
 - **2024-08-05**: refactor(bi): clean up unused columns in semantic model
 - **2024-08-05**: feat(bi): configure relationship schema for ride telemetry model
+- **2024-08-05**: fix(tableau): correct calculated field for tenure bucket segmentation
