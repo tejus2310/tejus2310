@@ -17,3 +17,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-08-05**: feat(bi): configure relationship schema for ride telemetry model
 - **2024-08-05**: fix(tableau): correct calculated field for tenure bucket segmentation
 - **2024-08-09**: feat(bi): configure relationship schema for ride telemetry model
+- **2024-08-09**: feat(bi): configure relationship schema for ride telemetry model
