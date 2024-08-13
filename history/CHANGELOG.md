@@ -19,3 +19,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-08-09**: feat(bi): configure relationship schema for ride telemetry model
 - **2024-08-09**: feat(bi): configure relationship schema for ride telemetry model
 - **2024-08-09**: feat(powerbi): configure drillthrough filters for product categories
+- **2024-08-13**: perf(sql): reduce query execution time on customer ride history
