@@ -22,3 +22,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-08-13**: perf(sql): reduce query execution time on customer ride history
 - **2024-08-16**: docs(amazon): add regional sales performance breakdown
 - **2024-08-21**: fix(tableau): correct calculated field for tenure bucket segmentation
+- **2024-08-21**: feat(powerbi): configure drillthrough filters for product categories
