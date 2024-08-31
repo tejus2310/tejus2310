@@ -27,3 +27,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-08-27**: docs(analytics): document Ola booking status taxonomy and edge cases
 - **2024-08-27**: refactor(dax): optimize ride distance calculation measure
 - **2024-08-27**: docs(analytics): finalize executive summary for mobility analytics
+- **2024-08-31**: feat(powerbi): configure drillthrough filters for product categories
