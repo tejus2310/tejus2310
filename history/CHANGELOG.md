@@ -30,3 +30,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-08-31**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-09-02**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-09-02**: docs(amazon): add regional sales performance breakdown
+- **2024-09-04**: fix(tableau): correct calculated field for tenure bucket segmentation
