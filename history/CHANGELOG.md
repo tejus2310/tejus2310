@@ -35,3 +35,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-09-12**: feat(kpi): implement YoY revenue growth calculation in DAX
 - **2024-09-12**: docs(hr): document voluntary vs involuntary turnover metrics
 - **2024-09-17**: feat(powerquery): add automated ETL data cleaning pipeline
+- **2024-09-19**: feat(sql): add rolling average for driver availability window
