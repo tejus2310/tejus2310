@@ -38,3 +38,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-09-19**: feat(sql): add rolling average for driver availability window
 - **2024-09-25**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-09-25**: docs(analytics): finalize executive summary for mobility analytics
+- **2024-09-27**: perf(sql): reduce query execution time on customer ride history
