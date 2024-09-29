@@ -41,3 +41,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-09-27**: perf(sql): reduce query execution time on customer ride history
 - **2024-09-27**: refactor(bi): clean up unused columns in semantic model
 - **2024-09-27**: feat(tableau): build HR attrition distribution by department
+- **2024-09-29**: feat(tableau): build HR attrition distribution by department
