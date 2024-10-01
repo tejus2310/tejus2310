@@ -42,3 +42,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-09-27**: refactor(bi): clean up unused columns in semantic model
 - **2024-09-27**: feat(tableau): build HR attrition distribution by department
 - **2024-09-29**: feat(tableau): build HR attrition distribution by department
+- **2024-10-01**: docs(analytics): document Ola booking status taxonomy and edge cases
