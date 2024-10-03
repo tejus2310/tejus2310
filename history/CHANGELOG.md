@@ -45,3 +45,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-01**: docs(analytics): document Ola booking status taxonomy and edge cases
 - **2024-10-03**: fix(tableau): correct calculated field for tenure bucket segmentation
 - **2024-10-03**: feat(powerbi): configure drillthrough filters for product categories
+- **2024-10-03**: feat(sql): add rolling average for driver availability window
