@@ -46,3 +46,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-03**: fix(tableau): correct calculated field for tenure bucket segmentation
 - **2024-10-03**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-10-03**: feat(sql): add rolling average for driver availability window
+- **2024-10-08**: feat(kpi): implement YoY revenue growth calculation in DAX
