@@ -47,3 +47,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-03**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-10-03**: feat(sql): add rolling average for driver availability window
 - **2024-10-08**: feat(kpi): implement YoY revenue growth calculation in DAX
+- **2024-10-11**: feat(powerbi): create dynamic DAX measure for booking completion rate
