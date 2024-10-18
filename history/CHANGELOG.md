@@ -50,3 +50,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-11**: feat(powerbi): create dynamic DAX measure for booking completion rate
 - **2024-10-16**: docs(ola): add root-cause breakdown for high cancellation clusters
 - **2024-10-16**: docs(analytics): finalize executive summary for mobility analytics
+- **2024-10-18**: docs(analytics): document Ola booking status taxonomy and edge cases
