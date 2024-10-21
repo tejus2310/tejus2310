@@ -52,3 +52,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-16**: docs(analytics): finalize executive summary for mobility analytics
 - **2024-10-18**: docs(analytics): document Ola booking status taxonomy and edge cases
 - **2024-10-21**: feat(powerbi): configure drillthrough filters for product categories
+- **2024-10-21**: feat(tableau): build HR attrition distribution by department
