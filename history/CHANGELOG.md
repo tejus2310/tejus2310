@@ -54,3 +54,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-21**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-10-21**: feat(tableau): build HR attrition distribution by department
 - **2024-10-23**: perf(sql): reduce query execution time on customer ride history
+- **2024-10-25**: refactor(bi): clean up unused columns in semantic model
