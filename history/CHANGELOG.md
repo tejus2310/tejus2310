@@ -57,3 +57,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-25**: refactor(bi): clean up unused columns in semantic model
 - **2024-10-28**: feat(sql): add rolling average for driver availability window
 - **2024-10-30**: feat(powerbi): configure drillthrough filters for product categories
+- **2024-11-01**: feat(sql): add rolling average for driver availability window
