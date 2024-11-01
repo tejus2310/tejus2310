@@ -58,3 +58,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-10-28**: feat(sql): add rolling average for driver availability window
 - **2024-10-30**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-11-01**: feat(sql): add rolling average for driver availability window
+- **2024-11-01**: docs(hr): document voluntary vs involuntary turnover metrics
