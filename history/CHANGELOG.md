@@ -61,3 +61,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-11-01**: docs(hr): document voluntary vs involuntary turnover metrics
 - **2024-11-03**: docs(analytics): document Ola booking status taxonomy and edge cases
 - **2024-11-03**: perf(sql): reduce query execution time on customer ride history
+- **2024-11-05**: perf(mysql): add composite index on booking_id and customer_id
