@@ -64,3 +64,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-11-05**: perf(mysql): add composite index on booking_id and customer_id
 - **2024-11-05**: docs(hr): document voluntary vs involuntary turnover metrics
 - **2024-11-05**: docs(ola): add root-cause breakdown for high cancellation clusters
+- **2024-11-11**: feat(powerquery): add automated ETL data cleaning pipeline
