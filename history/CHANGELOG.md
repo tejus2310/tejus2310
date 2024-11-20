@@ -66,3 +66,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-11-05**: docs(ola): add root-cause breakdown for high cancellation clusters
 - **2024-11-11**: feat(powerquery): add automated ETL data cleaning pipeline
 - **2024-11-14**: feat(powerbi): create dynamic DAX measure for booking completion rate
+- **2024-11-20**: feat(tableau): build HR attrition distribution by department
