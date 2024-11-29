@@ -69,3 +69,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-11-20**: feat(tableau): build HR attrition distribution by department
 - **2024-11-26**: docs(hr): document voluntary vs involuntary turnover metrics
 - **2024-11-26**: feat(powerbi): configure drillthrough filters for product categories
+- **2024-11-29**: fix(tableau): correct calculated field for tenure bucket segmentation
