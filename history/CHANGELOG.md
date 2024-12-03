@@ -72,3 +72,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-11-29**: fix(tableau): correct calculated field for tenure bucket segmentation
 - **2024-11-29**: feat(powerbi): configure drillthrough filters for product categories
 - **2024-11-29**: docs(ola): add root-cause breakdown for high cancellation clusters
+- **2024-12-03**: fix(tableau): correct calculated field for tenure bucket segmentation
