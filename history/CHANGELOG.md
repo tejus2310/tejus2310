@@ -75,3 +75,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-12-03**: fix(tableau): correct calculated field for tenure bucket segmentation
 - **2024-12-09**: perf(mysql): add composite index on booking_id and customer_id
 - **2024-12-11**: feat(bi): configure relationship schema for ride telemetry model
+- **2024-12-19**: refactor(dax): optimize ride distance calculation measure
