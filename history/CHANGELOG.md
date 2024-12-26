@@ -77,3 +77,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-12-11**: feat(bi): configure relationship schema for ride telemetry model
 - **2024-12-19**: refactor(dax): optimize ride distance calculation measure
 - **2024-12-23**: refactor(dax): optimize ride distance calculation measure
+- **2024-12-26**: perf(mysql): add composite index on booking_id and customer_id
