@@ -81,3 +81,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-12-29**: feat(powerbi): configure drillthrough filters for product categories
 - **2025-01-01**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-01-01**: perf(backend): add connection pooling configuration for Neon DB
+- **2025-01-01**: feat(health): add __health diagnostics endpoint for serverless runtime
