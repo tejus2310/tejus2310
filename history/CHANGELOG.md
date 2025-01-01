@@ -79,3 +79,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2024-12-23**: refactor(dax): optimize ride distance calculation measure
 - **2024-12-26**: perf(mysql): add composite index on booking_id and customer_id
 - **2024-12-29**: feat(powerbi): configure drillthrough filters for product categories
+- **2025-01-01**: feat(ui): implement 3D deep-space backdrop with CSS animations
