@@ -87,3 +87,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-01-10**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-01-12**: feat(jwt): add signed bearer token verification middleware
 - **2025-01-15**: refactor(api): modularize express routes into controller structure
+- **2025-01-20**: feat(serverless): configure single-project Vercel routing rules
