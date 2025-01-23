@@ -90,3 +90,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-01-20**: feat(serverless): configure single-project Vercel routing rules
 - **2025-01-20**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-01-20**: feat(health): add __health diagnostics endpoint for serverless runtime
+- **2025-01-23**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
