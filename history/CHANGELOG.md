@@ -95,3 +95,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-01-29**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-01-29**: feat(health): add __health diagnostics endpoint for serverless runtime
 - **2025-02-04**: feat(prompt): design zero-shot prompt template for structured parsing
+- **2025-02-04**: fix(api): resolve CORS headers in local development proxy
