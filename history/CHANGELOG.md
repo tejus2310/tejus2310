@@ -100,3 +100,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-02-12**: feat(orbit): initialize full-stack repository structure with Vite and Node
 - **2025-02-12**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-02-19**: feat(eval): author deterministic scoring harness for LaTeX boxed answers
+- **2025-02-26**: feat(rag): prototype vector similarity search with in-memory store
