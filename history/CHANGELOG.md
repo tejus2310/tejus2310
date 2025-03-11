@@ -106,3 +106,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-03-01**: feat(jwt): add signed bearer token verification middleware
 - **2025-03-04**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-03-07**: feat(orbit): initialize full-stack repository structure with Vite and Node
+- **2025-03-11**: refactor(api): modularize express routes into controller structure
