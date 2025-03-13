@@ -109,3 +109,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-03-11**: refactor(api): modularize express routes into controller structure
 - **2025-03-13**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-03-13**: feat(rag): prototype vector similarity search with in-memory store
+- **2025-03-13**: feat(docker): write multi-stage Dockerfile for backend microservices
