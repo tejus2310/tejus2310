@@ -108,3 +108,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-03-07**: feat(orbit): initialize full-stack repository structure with Vite and Node
 - **2025-03-11**: refactor(api): modularize express routes into controller structure
 - **2025-03-13**: feat(docker): write multi-stage Dockerfile for backend microservices
+- **2025-03-13**: feat(rag): prototype vector similarity search with in-memory store
