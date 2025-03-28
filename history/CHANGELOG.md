@@ -114,3 +114,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-03-17**: test(pytest): add unit tests for token counting and normalization
 - **2025-03-20**: feat(serverless): configure single-project Vercel routing rules
 - **2025-03-24**: feat(jwt): add signed bearer token verification middleware
+- **2025-03-28**: refactor(api): modularize express routes into controller structure
