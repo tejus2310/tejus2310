@@ -115,3 +115,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-03-20**: feat(serverless): configure single-project Vercel routing rules
 - **2025-03-24**: feat(jwt): add signed bearer token verification middleware
 - **2025-03-28**: refactor(api): modularize express routes into controller structure
+- **2025-03-30**: feat(jwt): add signed bearer token verification middleware
