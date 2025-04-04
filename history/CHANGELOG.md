@@ -117,3 +117,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-03-28**: refactor(api): modularize express routes into controller structure
 - **2025-03-30**: feat(jwt): add signed bearer token verification middleware
 - **2025-04-02**: feat(auth): implement bcrypt password hashing and salt generation
+- **2025-04-04**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
