@@ -121,3 +121,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-04-04**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
 - **2025-04-07**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-04-10**: feat(ui): implement 3D deep-space backdrop with CSS animations
+- **2025-04-10**: feat(prompt): design zero-shot prompt template for structured parsing
