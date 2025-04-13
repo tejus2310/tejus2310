@@ -122,3 +122,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-04-07**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-04-10**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-04-10**: feat(prompt): design zero-shot prompt template for structured parsing
+- **2025-04-13**: perf(backend): add connection pooling configuration for Neon DB
