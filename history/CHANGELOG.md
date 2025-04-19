@@ -126,3 +126,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-04-16**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-04-16**: feat(orbit): initialize full-stack repository structure with Vite and Node
 - **2025-04-16**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
+- **2025-04-19**: feat(health): add __health diagnostics endpoint for serverless runtime
