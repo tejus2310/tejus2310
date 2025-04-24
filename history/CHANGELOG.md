@@ -130,3 +130,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-04-22**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-04-22**: test(pytest): add unit tests for token counting and normalization
 - **2025-04-24**: feat(jwt): add signed bearer token verification middleware
+- **2025-04-24**: feat(orbit): initialize full-stack repository structure with Vite and Node
