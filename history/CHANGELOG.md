@@ -129,3 +129,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-04-19**: feat(health): add __health diagnostics endpoint for serverless runtime
 - **2025-04-22**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-04-22**: test(pytest): add unit tests for token counting and normalization
+- **2025-04-24**: feat(jwt): add signed bearer token verification middleware
