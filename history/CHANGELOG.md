@@ -133,3 +133,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-04-24**: feat(orbit): initialize full-stack repository structure with Vite and Node
 - **2025-04-26**: test(pytest): add unit tests for token counting and normalization
 - **2025-04-30**: feat(serverless): configure single-project Vercel routing rules
+- **2025-05-03**: perf(backend): add connection pooling configuration for Neon DB
