@@ -138,3 +138,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-05-06**: feat(frontend): build responsive task board with fluid stage transitions
 - **2025-05-06**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-05-08**: feat(rag): prototype vector similarity search with in-memory store
+- **2025-05-08**: feat(auth): implement bcrypt password hashing and salt generation
