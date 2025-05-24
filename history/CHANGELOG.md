@@ -141,3 +141,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-05-08**: feat(auth): implement bcrypt password hashing and salt generation
 - **2025-05-15**: feat(orbit): initialize full-stack repository structure with Vite and Node
 - **2025-05-20**: feat(docker): write multi-stage Dockerfile for backend microservices
+- **2025-05-24**: feat(rag): prototype vector similarity search with in-memory store
