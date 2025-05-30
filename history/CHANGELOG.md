@@ -144,3 +144,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-05-24**: feat(rag): prototype vector similarity search with in-memory store
 - **2025-05-28**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
 - **2025-05-28**: feat(ui): implement 3D deep-space backdrop with CSS animations
+- **2025-05-30**: feat(docker): write multi-stage Dockerfile for backend microservices
