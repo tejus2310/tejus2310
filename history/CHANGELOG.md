@@ -146,3 +146,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-05-28**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-05-30**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-06-03**: test(pytest): add unit tests for token counting and normalization
+- **2025-06-03**: feat(frontend): build responsive task board with fluid stage transitions
