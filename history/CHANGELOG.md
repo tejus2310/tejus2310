@@ -148,3 +148,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-06-03**: test(pytest): add unit tests for token counting and normalization
 - **2025-06-03**: feat(frontend): build responsive task board with fluid stage transitions
 - **2025-06-06**: feat(rag): prototype vector similarity search with in-memory store
+- **2025-06-06**: feat(eval): author deterministic scoring harness for LaTeX boxed answers
