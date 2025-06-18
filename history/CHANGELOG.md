@@ -153,3 +153,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-06-08**: test(pytest): add unit tests for token counting and normalization
 - **2025-06-11**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-06-11**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
+- **2025-06-18**: feat(docker): write multi-stage Dockerfile for backend microservices
