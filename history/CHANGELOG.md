@@ -156,3 +156,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-06-18**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-06-23**: refactor(api): modularize express routes into controller structure
 - **2025-06-27**: feat(serverless): configure single-project Vercel routing rules
+- **2025-07-01**: feat(rbac): implement role-based access control for team leads
