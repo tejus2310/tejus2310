@@ -161,3 +161,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-07-03**: feat(auth): implement bcrypt password hashing and salt generation
 - **2025-07-09**: test(pytest): add unit tests for token counting and normalization
 - **2025-07-09**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
+- **2025-07-09**: feat(docker): write multi-stage Dockerfile for backend microservices
