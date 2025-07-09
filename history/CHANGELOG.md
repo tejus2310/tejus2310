@@ -160,3 +160,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-07-01**: feat(email): add password reset token generation and transport fallback
 - **2025-07-03**: feat(auth): implement bcrypt password hashing and salt generation
 - **2025-07-09**: test(pytest): add unit tests for token counting and normalization
+- **2025-07-09**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
