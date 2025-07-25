@@ -168,3 +168,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-07-22**: feat(eval): author deterministic scoring harness for LaTeX boxed answers
 - **2025-07-22**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-07-25**: feat(rag): prototype vector similarity search with in-memory store
+- **2025-07-25**: feat(rbac): implement role-based access control for team leads
