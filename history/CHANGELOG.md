@@ -170,3 +170,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-07-25**: feat(rag): prototype vector similarity search with in-memory store
 - **2025-07-25**: feat(rbac): implement role-based access control for team leads
 - **2025-07-25**: feat(serverless): configure single-project Vercel routing rules
+- **2025-07-29**: feat(jwt): add signed bearer token verification middleware
