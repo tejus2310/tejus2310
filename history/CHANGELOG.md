@@ -173,3 +173,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-07-29**: feat(jwt): add signed bearer token verification middleware
 - **2025-07-31**: test(pytest): add unit tests for token counting and normalization
 - **2025-08-03**: feat(docker): write multi-stage Dockerfile for backend microservices
+- **2025-08-05**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
