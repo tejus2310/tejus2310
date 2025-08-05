@@ -174,3 +174,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-07-31**: test(pytest): add unit tests for token counting and normalization
 - **2025-08-03**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-08-05**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
+- **2025-08-05**: feat(frontend): build responsive task board with fluid stage transitions
