@@ -176,3 +176,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-08-05**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
 - **2025-08-05**: feat(frontend): build responsive task board with fluid stage transitions
 - **2025-08-08**: feat(serverless): configure single-project Vercel routing rules
+- **2025-08-10**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
