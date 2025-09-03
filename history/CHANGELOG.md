@@ -180,3 +180,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-08-13**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-08-19**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-08-26**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
+- **2025-09-03**: perf(backend): add connection pooling configuration for Neon DB
