@@ -182,3 +182,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-08-26**: perf(frontend): bundle splitting and lazy loading for heavy UI routes
 - **2025-09-03**: perf(backend): add connection pooling configuration for Neon DB
 - **2025-09-03**: feat(docker): write multi-stage Dockerfile for backend microservices
+- **2025-09-06**: feat(jwt): add signed bearer token verification middleware
