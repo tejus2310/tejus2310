@@ -185,3 +185,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-09-06**: feat(jwt): add signed bearer token verification middleware
 - **2025-09-06**: feat(health): add __health diagnostics endpoint for serverless runtime
 - **2025-09-09**: test(pytest): add unit tests for token counting and normalization
+- **2025-09-09**: refactor(api): modularize express routes into controller structure
