@@ -188,3 +188,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-09-09**: refactor(api): modularize express routes into controller structure
 - **2025-09-11**: feat(rbac): implement role-based access control for team leads
 - **2025-09-16**: feat(auth): implement bcrypt password hashing and salt generation
+- **2025-09-16**: feat(rag): prototype vector similarity search with in-memory store
