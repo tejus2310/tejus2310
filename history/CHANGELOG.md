@@ -190,3 +190,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-09-16**: feat(auth): implement bcrypt password hashing and salt generation
 - **2025-09-16**: feat(rag): prototype vector similarity search with in-memory store
 - **2025-09-19**: refactor(api): modularize express routes into controller structure
+- **2025-09-19**: feat(docker): write multi-stage Dockerfile for backend microservices
