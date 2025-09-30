@@ -195,3 +195,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-09-27**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-09-27**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
 - **2025-09-30**: feat(serverless): configure single-project Vercel routing rules
+- **2025-09-30**: test(pytest): add unit tests for token counting and normalization
