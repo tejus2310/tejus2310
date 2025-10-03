@@ -197,3 +197,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-09-30**: feat(serverless): configure single-project Vercel routing rules
 - **2025-09-30**: test(pytest): add unit tests for token counting and normalization
 - **2025-09-30**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
+- **2025-10-03**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
