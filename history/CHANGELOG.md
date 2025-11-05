@@ -203,3 +203,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-10-15**: feat(email): add password reset token generation and transport fallback
 - **2025-10-22**: feat(ui): implement 3D deep-space backdrop with CSS animations
 - **2025-10-29**: feat(python): implement BeautifulSoup parser for web extraction
+- **2025-11-05**: feat(eval): author deterministic scoring harness for LaTeX boxed answers
