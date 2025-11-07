@@ -207,3 +207,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-11-05**: feat(rbac): implement role-based access control for team leads
 - **2025-11-05**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-11-07**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
+- **2025-11-07**: feat(serverless): configure single-project Vercel routing rules
