@@ -209,3 +209,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-11-07**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
 - **2025-11-07**: feat(serverless): configure single-project Vercel routing rules
 - **2025-11-10**: feat(health): add __health diagnostics endpoint for serverless runtime
+- **2025-11-10**: feat(python): implement BeautifulSoup parser for web extraction
