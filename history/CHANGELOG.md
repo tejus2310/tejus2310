@@ -211,3 +211,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-11-10**: feat(health): add __health diagnostics endpoint for serverless runtime
 - **2025-11-10**: feat(python): implement BeautifulSoup parser for web extraction
 - **2025-11-13**: feat(auth): implement bcrypt password hashing and salt generation
+- **2025-11-13**: fix(api): resolve CORS headers in local development proxy
