@@ -215,3 +215,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-11-18**: feat(rbac): implement role-based access control for team leads
 - **2025-11-18**: fix(api): resolve CORS headers in local development proxy
 - **2025-11-18**: feat(auth): implement bcrypt password hashing and salt generation
+- **2025-11-21**: feat(eval): author deterministic scoring harness for LaTeX boxed answers
