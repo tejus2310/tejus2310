@@ -219,3 +219,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-11-24**: feat(jwt): add signed bearer token verification middleware
 - **2025-11-24**: feat(rag): prototype vector similarity search with in-memory store
 - **2025-11-28**: feat(docker): write multi-stage Dockerfile for backend microservices
+- **2025-12-02**: feat(docker): write multi-stage Dockerfile for backend microservices
