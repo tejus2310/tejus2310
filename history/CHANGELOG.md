@@ -222,3 +222,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-12-02**: feat(docker): write multi-stage Dockerfile for backend microservices
 - **2025-12-05**: feat(email): add password reset token generation and transport fallback
 - **2025-12-05**: feat(prompt): design zero-shot prompt template for structured parsing
+- **2025-12-09**: test(pytest): add unit tests for token counting and normalization
