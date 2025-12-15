@@ -224,3 +224,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-12-05**: feat(prompt): design zero-shot prompt template for structured parsing
 - **2025-12-09**: test(pytest): add unit tests for token counting and normalization
 - **2025-12-11**: fix(api): resolve CORS headers in local development proxy
+- **2025-12-15**: feat(orbit): initialize full-stack repository structure with Vite and Node
