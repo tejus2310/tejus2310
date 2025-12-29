@@ -233,3 +233,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-12-27**: feat(db): configure Sequelize ORM dialect for PostgreSQL Neon
 - **2025-12-29**: perf(backend): add connection pooling configuration for Neon DB
 - **2025-12-29**: refactor(api): modularize express routes into controller structure
+- **2025-12-29**: feat(serverless): configure single-project Vercel routing rules
