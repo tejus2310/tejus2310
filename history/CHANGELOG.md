@@ -235,3 +235,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-12-29**: refactor(api): modularize express routes into controller structure
 - **2025-12-29**: feat(serverless): configure single-project Vercel routing rules
 - **2025-12-31**: feat(health): add __health diagnostics endpoint for serverless runtime
+- **2026-01-02**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
