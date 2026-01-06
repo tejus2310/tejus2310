@@ -237,3 +237,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2025-12-31**: feat(health): add __health diagnostics endpoint for serverless runtime
 - **2026-01-02**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
 - **2026-01-06**: feat(telemetry): configure token pricing auditor for frontier models
+- **2026-01-06**: feat(llm): implement domain-specific prompt alignment for Sky Forge
