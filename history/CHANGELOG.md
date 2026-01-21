@@ -243,3 +243,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-01-14**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
 - **2026-01-18**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
 - **2026-01-18**: feat(audio): add procedural ambient audio generation via Web Audio API
+- **2026-01-21**: perf(vindex): reduce static training dependency via streaming retrieval
