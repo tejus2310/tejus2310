@@ -245,3 +245,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-01-18**: feat(audio): add procedural ambient audio generation via Web Audio API
 - **2026-01-21**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-01-28**: perf(vindex): reduce static training dependency via streaming retrieval
+- **2026-01-28**: feat(guardrails): implement adversarial refusal classifier and canary checks
