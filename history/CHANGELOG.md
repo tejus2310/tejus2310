@@ -246,3 +246,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-01-21**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-01-28**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-01-28**: feat(guardrails): implement adversarial refusal classifier and canary checks
+- **2026-01-28**: feat(alignment): calibrate behavioral constraints on reasoning traces
