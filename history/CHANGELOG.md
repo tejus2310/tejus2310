@@ -251,3 +251,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-02-12**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
 - **2026-02-15**: feat(alignment): calibrate behavioral constraints on reasoning traces
 - **2026-02-18**: feat(compliance): add automated behavioral verification test suite
+- **2026-02-20**: feat(compliance): add automated behavioral verification test suite
