@@ -254,3 +254,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-02-20**: feat(compliance): add automated behavioral verification test suite
 - **2026-02-20**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-02-24**: feat(shaders): implement post-processing bloom, tone mapping, and grain
+- **2026-02-26**: feat(telemetry): configure token pricing auditor for frontier models
