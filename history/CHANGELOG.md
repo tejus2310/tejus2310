@@ -257,3 +257,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-02-26**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-03-02**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
 - **2026-03-06**: feat(telemetry): configure token pricing auditor for frontier models
+- **2026-03-10**: feat(alignment): calibrate behavioral constraints on reasoning traces
