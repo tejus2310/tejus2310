@@ -259,3 +259,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-03-06**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-03-10**: feat(alignment): calibrate behavioral constraints on reasoning traces
 - **2026-03-10**: refactor(pipeline): optimize prompt token compression for long context
+- **2026-03-16**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
