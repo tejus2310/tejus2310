@@ -264,3 +264,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-03-16**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-03-20**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-03-23**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
+- **2026-03-23**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
