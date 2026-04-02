@@ -268,3 +268,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-03-23**: feat(compliance): add automated behavioral verification test suite
 - **2026-03-26**: refactor(pipeline): optimize prompt token compression for long context
 - **2026-03-31**: feat(telemetry): configure token pricing auditor for frontier models
+- **2026-04-02**: feat(kensei): design DAG task decomposition for multi-step prompts
