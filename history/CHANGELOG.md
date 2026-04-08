@@ -272,3 +272,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-04-02**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-04-08**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
 - **2026-04-08**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
+- **2026-04-08**: feat(audio): add procedural ambient audio generation via Web Audio API
