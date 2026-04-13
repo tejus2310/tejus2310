@@ -276,3 +276,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-04-11**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
 - **2026-04-11**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-04-13**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
+- **2026-04-13**: feat(llm): implement domain-specific prompt alignment for Sky Forge
