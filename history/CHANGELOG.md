@@ -277,3 +277,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-04-11**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-04-13**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
 - **2026-04-13**: feat(llm): implement domain-specific prompt alignment for Sky Forge
+- **2026-04-17**: feat(shaders): implement post-processing bloom, tone mapping, and grain
