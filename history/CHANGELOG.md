@@ -281,3 +281,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-04-17**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-04-17**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-04-21**: feat(llm): implement domain-specific prompt alignment for Sky Forge
+- **2026-04-21**: feat(compliance): add automated behavioral verification test suite
