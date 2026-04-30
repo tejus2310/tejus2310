@@ -284,3 +284,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-04-21**: feat(compliance): add automated behavioral verification test suite
 - **2026-04-24**: feat(audio): add procedural ambient audio generation via Web Audio API
 - **2026-04-28**: feat(alignment): calibrate behavioral constraints on reasoning traces
+- **2026-04-30**: feat(kensei): design DAG task decomposition for multi-step prompts
