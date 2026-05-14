@@ -288,3 +288,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-05-06**: feat(compliance): add automated behavioral verification test suite
 - **2026-05-10**: feat(guardrails): implement adversarial refusal classifier and canary checks
 - **2026-05-14**: feat(alignment): calibrate behavioral constraints on reasoning traces
+- **2026-05-14**: feat(compliance): add automated behavioral verification test suite
