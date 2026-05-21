@@ -290,3 +290,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-05-14**: feat(alignment): calibrate behavioral constraints on reasoning traces
 - **2026-05-14**: feat(compliance): add automated behavioral verification test suite
 - **2026-05-19**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
+- **2026-05-21**: feat(telemetry): configure token pricing auditor for frontier models
