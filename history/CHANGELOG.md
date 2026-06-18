@@ -298,3 +298,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-06-12**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
 - **2026-06-15**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
 - **2026-06-15**: feat(telemetry): configure token pricing auditor for frontier models
+- **2026-06-18**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
