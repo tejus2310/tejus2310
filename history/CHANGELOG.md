@@ -300,3 +300,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-06-15**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-06-18**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
 - **2026-06-18**: feat(compliance): add automated behavioral verification test suite
+- **2026-06-24**: refactor(pipeline): optimize prompt token compression for long context
