@@ -302,3 +302,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-06-18**: feat(compliance): add automated behavioral verification test suite
 - **2026-06-24**: refactor(pipeline): optimize prompt token compression for long context
 - **2026-07-02**: feat(chat): embed interactive resume avatar with local semantic search
+- **2026-07-02**: feat(guardrails): implement adversarial refusal classifier and canary checks
