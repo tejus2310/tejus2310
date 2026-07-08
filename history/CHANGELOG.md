@@ -303,3 +303,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-06-24**: refactor(pipeline): optimize prompt token compression for long context
 - **2026-07-02**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-07-02**: feat(guardrails): implement adversarial refusal classifier and canary checks
+- **2026-07-08**: feat(audio): add procedural ambient audio generation via Web Audio API
