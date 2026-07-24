@@ -311,3 +311,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-07-16**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-07-16**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-07-20**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
+- **2026-07-24**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
