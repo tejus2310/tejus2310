@@ -314,3 +314,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-07-24**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
 - **2026-07-27**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-07-31**: feat(kensei): design DAG task decomposition for multi-step prompts
+- **2026-07-31**: feat(ast): add syntax tree equivalence normalizer ignoring whitespace
