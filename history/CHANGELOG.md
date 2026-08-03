@@ -315,3 +315,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-07-27**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-07-31**: feat(kensei): design DAG task decomposition for multi-step prompts
 - **2026-07-31**: feat(ast): add syntax tree equivalence normalizer ignoring whitespace
+- **2026-08-03**: perf(vindex): reduce static training dependency via streaming retrieval
