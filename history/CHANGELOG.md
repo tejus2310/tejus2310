@@ -318,3 +318,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-03**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-08-06**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-08-13**: feat(kensei): design DAG task decomposition for multi-step prompts
+- **2026-08-13**: feat(chat): embed interactive resume avatar with local semantic search
