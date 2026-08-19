@@ -319,3 +319,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-06**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-08-13**: feat(kensei): design DAG task decomposition for multi-step prompts
 - **2026-08-13**: feat(chat): embed interactive resume avatar with local semantic search
+- **2026-08-19**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
