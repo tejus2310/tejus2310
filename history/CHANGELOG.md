@@ -322,3 +322,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-19**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
 - **2026-08-19**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-08-19**: feat(chat): embed interactive resume avatar with local semantic search
+- **2026-08-22**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
