@@ -323,3 +323,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-19**: feat(telemetry): configure token pricing auditor for frontier models
 - **2026-08-19**: feat(chat): embed interactive resume avatar with local semantic search
 - **2026-08-22**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
+- **2026-08-22**: feat(alignment): calibrate behavioral constraints on reasoning traces
