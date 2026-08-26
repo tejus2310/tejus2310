@@ -325,3 +325,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-22**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
 - **2026-08-22**: feat(alignment): calibrate behavioral constraints on reasoning traces
 - **2026-08-22**: perf(vindex): reduce static training dependency via streaming retrieval
+- **2026-08-26**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
