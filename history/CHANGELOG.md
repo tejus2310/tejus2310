@@ -326,3 +326,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-22**: feat(alignment): calibrate behavioral constraints on reasoning traces
 - **2026-08-22**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-08-26**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
+- **2026-09-02**: feat(audio): add procedural ambient audio generation via Web Audio API
