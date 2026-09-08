@@ -328,3 +328,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-08-26**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
 - **2026-09-02**: feat(audio): add procedural ambient audio generation via Web Audio API
 - **2026-09-08**: feat(guardrails): implement adversarial refusal classifier and canary checks
+- **2026-09-08**: refactor(pipeline): optimize prompt token compression for long context
