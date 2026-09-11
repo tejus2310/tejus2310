@@ -330,3 +330,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-09-08**: feat(guardrails): implement adversarial refusal classifier and canary checks
 - **2026-09-08**: refactor(pipeline): optimize prompt token compression for long context
 - **2026-09-11**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
+- **2026-09-11**: perf(vindex): reduce static training dependency via streaming retrieval
