@@ -332,3 +332,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-09-11**: docs(eval): update benchmark matrix for SWE-bench and TerminalBench
 - **2026-09-11**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-09-14**: feat(retrieval): connect live web scraping to STEM reasoning pipeline
+- **2026-09-18**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
