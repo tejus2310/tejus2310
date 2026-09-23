@@ -335,3 +335,4 @@ Chronological timeline of system architecture, pipelines, and models.
 - **2026-09-18**: feat(jaeger): configure isolated Docker sandbox runner with memory limits
 - **2026-09-18**: perf(vindex): reduce static training dependency via streaming retrieval
 - **2026-09-21**: feat(telemetry): configure token pricing auditor for frontier models
+- **2026-09-23**: feat(portfolio): setup Three.js scene with custom GLSL wind shaders
